@@ -1,0 +1,8 @@
+{
+  "name": "Arohana Edu Connect",
+  "description": "Higher education pathways and transparent admission guidance for Kerala students across premier South Indian universities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
